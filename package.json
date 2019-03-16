@@ -1,0 +1,33 @@
+{
+  "name": "ionic",
+  "version": "1.0.0",
+  "description": "tutorial app for android using cordova and ionic",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "npm test",
+    "lite": "lite-server"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prachalgoyal03/IONIC.git"
+  },
+  "keywords": [
+    "ionic",
+    "cordova",
+    "html",
+    "css",
+    "js",
+    "javascript"
+  ],
+  "author": "prachalgoyal_03",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prachalgoyal03/IONIC/issues"
+  },
+  "homepage": "https://github.com/prachalgoyal03/IONIC#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
